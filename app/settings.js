@@ -139,6 +139,15 @@ drupalgap.settings.menus['user_menu_authenticated'] = {
           'data-theme': 'b'
         }
       }
+    },
+    {
+      title: 'Add content',
+      path: 'node/add',
+      options: {
+        attributes: {
+          'data-theme': 'b'
+        }
+      }
     }
   ]
 };
