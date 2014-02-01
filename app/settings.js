@@ -106,6 +106,15 @@ drupalgap.settings.menus['user_menu_anonymous'] = {
           'data-theme': 'b'
         }
       }
+    },
+    {
+      title: 'webform',
+      path: 'node/1',
+      options: {
+        attributes: {
+          'data-theme': 'b'
+        }
+      }
     }
   ]
 };
