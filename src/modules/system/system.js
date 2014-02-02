@@ -177,7 +177,7 @@ function system_dashboard_page() {
     
     content.support = {
       theme: 'button_link',
-      text: 'Support',
+      text: 'Support BLA',
       path: 'http://www.drupalgap.org/support',
       options: {InAppBrowser: true}
     };

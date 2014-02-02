@@ -7585,9 +7585,18 @@ function system_dashboard_page() {
       path: 'http://www.drupalgap.org/get-started',
       options: {InAppBrowser: true}
     };
+    
+    content.betapp = {
+      theme: 'button_link',
+      text: 'Ga naar de quiz site',
+      path: 'http://app.clients.ooxo.nl',
+      options: {InAppBrowser: true}
+    };
+    
+    
     content.support = {
       theme: 'button_link',
-      text: 'Support',
+      text: 'Support BLA BLA',
       path: 'http://www.drupalgap.org/support',
       options: {InAppBrowser: true}
     };
