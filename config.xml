@@ -6,7 +6,7 @@
         id = "nl.ooxo.clients.app"
         version = "0.0.1">
 
-    <name>BeT probeersel</name>
+    <name>BeT CSSBreda</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
@@ -48,7 +48,7 @@ permission on your app, which PhoneGap requires.
 -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="icon.png" />
+    <icon src="icon-2.png" />
 
 
     <!--
